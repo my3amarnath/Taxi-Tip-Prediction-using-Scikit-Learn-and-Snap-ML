@@ -30,4 +30,4 @@ This project focuses on predicting taxi tip amounts using machine learning model
 - Successfully built and trained regression models to predict taxi tip amounts.
 - Demonstrated the speedup achieved using Snap ML compared to Scikit-Learn.
 
-Feel free to explore, contribute, and use this project as a reference for similar regression problems!
+Feel free to explore, contribute, and use this project as a reference for your work!
