@@ -3,10 +3,22 @@
 ## Introduction
 This project focuses on predicting taxi tip amounts using machine learning models, specifically Decision Tree Regressors, implemented with Scikit-Learn and Snap ML. The dataset comprises information about taxi trips in New York City, and the goal is to create an accurate model to predict tip amounts.
 
-## Application
-- Jupyter Notebooks
+### 💻 Tools and Technologies:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7EBE2?style=for-the-badge&logo=pandas&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-FACCA7?style=for-the-badge&logo=Jupyter)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+## Objective
+- Data analysis and cleaning to prepare the dataset for machine learning.
+- Implementation of Decision Tree Regressors with both Scikit-Learn and Snap ML.
+- Comparison of training speed and model performance between Scikit-Learn and Snap ML.
 
 ## Libraries
 - NumPy
@@ -14,11 +26,6 @@ This project focuses on predicting taxi tip amounts using machine learning model
 - Matplotlib
 - Scikit-Learn
 - Snap ML
-
-## Objective
-- Data analysis and cleaning to prepare the dataset for machine learning.
-- Implementation of Decision Tree Regressors with both Scikit-Learn and Snap ML.
-- Comparison of training speed and model performance between Scikit-Learn and Snap ML.
 
 ## Key Skills Demonstrated
 - Data preprocessing techniques.
